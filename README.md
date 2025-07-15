@@ -1,1 +1,2 @@
-# PY
+Flask==2.3.3
+google-generativeai==0.3.2
